@@ -1,0 +1,24 @@
+{
+  "name": "twitterapi",
+  "version": "1.0.0",
+  "description": "CRUD operations with Twitter API.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aserputov/twitterAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aserputov/twitterAPI/issues"
+  },
+  "homepage": "https://github.com/aserputov/twitterAPI#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "node.js": "^0.0.1-security"
+  }
+}
